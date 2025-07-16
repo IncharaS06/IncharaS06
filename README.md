@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inchara S</h1>
 <h3 align="center">Information Science and Engineering Student | Technology Enthusiast</h3>
 <hr>
-<img align="right" alt="Coding" width="400" height=300 src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
+<img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 <h3 align="left">About</h3>
 <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
 <p>
@@ -19,8 +19,6 @@
 <a href="https://linkedin.com/in/incharas06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incharas06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/incharas06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="incharas06" height="30" width="40" /></a>
 </p>
-
-<br>
 <hr>
 <h4 align="left">GSSOC(24) Badges 🪶</h4>
 
