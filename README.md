@@ -122,13 +122,13 @@
 <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"> &nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
-  [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
 </p>
 <h4 align="left">🧑‍💻 Developer/Forums</h4>
 <p>
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"> &nbsp;
-</p>
+<img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white">
+</p
 
 <h3 align="left">GitHub Stats:</h3>
 
