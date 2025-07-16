@@ -20,6 +20,8 @@
 <a href="https://www.leetcode.com/incharas06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="incharas06" height="30" width="40" /></a>
 </p>
 
+<br><br>
+<hr>
 <h4 align="left">GSSOC(24) Badges 🪶</h4>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
