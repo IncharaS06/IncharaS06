@@ -140,6 +140,8 @@
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> 
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=incharas06&show_icons=true&locale=en&layout=compact" alt="incharas06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=incharas06&show_icons=true&locale=en" alt="incharas06" /></p>
