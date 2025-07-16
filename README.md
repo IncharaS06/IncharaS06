@@ -2,7 +2,7 @@
 <h3 align="center">Information Science and Engineering Student | Technology Enthusiast</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
-<br>
+<br/>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=incharas06&label=Profile%20views&color=0e75b6&style=flat" alt="incharas06" /> </p>
