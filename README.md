@@ -142,6 +142,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=incharas06&show_icons=true&locale=en" alt="incharas06" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=incharas06&" alt="incharas06" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="IncharaS06"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanths814&" alt="IncharaS06" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=incharas06&show_icons=true&locale=en&layout=compact" alt="incharas06" /></p>
