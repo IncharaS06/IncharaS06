@@ -2,6 +2,14 @@
 <h3 align="center">Information Science and Engineering Student | Technology Enthusiast</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
+<h3 align="left">About</h3>
+<p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
+<p>
+- 🔭 Check out my <a href="https://drive.google.com/file/d/1IaN2K3Ay5JFz1ijSI0CuE78DwNDh-AKO/view?usp=sharing"><b>Resume</b></a><br>
+- 💻 All of my projects are available on <a href="https://github.com/IncharaS06/"><b>GitHub</b></a><br>
+- 🌱 I look for opportunities to use my skills to solve challenging real-world problems.<br>
+- 👯 I am open to collaboration with creators, developers and tech enthusiasts.<br>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=incharas06&label=Profile%20views&color=0e75b6&style=flat" alt="incharas06" /> </p>
