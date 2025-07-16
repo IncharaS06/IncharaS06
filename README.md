@@ -5,7 +5,7 @@
 <h3 align="left">About</h3>
 <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
 <p>
-- 🔭 Check out my <a href="https://drive.google.com/file/d/1IaN2K3Ay5JFz1ijSI0CuE78DwNDh-AKO/view?usp=sharing"><b>Resume</b></a><br>
+- 🔭 Check out my <a href="https://drive.google.com/file/d/1H5vU40_XUKRn6CUhLn0mYozsz841orYM/view?usp=sharing"><b>Resume</b></a><br>
 - 💻 All of my projects are available on <a href="https://github.com/IncharaS06/"><b>GitHub</b></a><br>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.<br>
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts.<br>
@@ -19,6 +19,7 @@
 <a href="https://linkedin.com/in/incharas06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="incharas06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/incharas06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="incharas06" height="30" width="40" /></a>
 </p>
+
 <hr>
 <h4 align="left">GSSOC(24) Badges 🪶</h4>
 
