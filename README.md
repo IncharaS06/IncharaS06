@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"> &nbsp;
 </p>
-
+ 
 <h4> ☁️ Hosting and 📂 Cloud Storage</h4>
 <p>
 <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
