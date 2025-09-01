@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;
 </p>
 
 <h4 align="left">📚 Frameworks</h4>
@@ -138,7 +139,7 @@
 
 <h3 align="left">💻 Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,dart,go,flutter,flask,django,fastapi,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,gitlab,docker,azure,aws,vercel,netlify,postman,figma,canva,tailwind,notion,vscode,pycharm,anaconda"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,dart,flutter,flask,django,fastapi,react,nodejs,express,mongodb,mysql,postgres,firebase,git,github,gitlab,docker,azure,aws,vercel,netlify,postman,figma,canva,tailwind,notion,vscode,pycharm,anaconda,md"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=incharas06&show_icons=true&locale=en" alt="IncharaS06"/></p>
